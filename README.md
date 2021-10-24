@@ -8,6 +8,7 @@ I'm K.Utsunomiya, a front-end web developer.
 - 📖 My Website: https://koredana.info/
 - 🤖 My Service: https://poiyo.app/
 - 🦊 GitLab: https://gitlab.com/nemuvski/
+- 🎁 NPM: https://www.npmjs.com/~nemuvski
 
 
 ## My tools
