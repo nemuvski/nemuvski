@@ -18,20 +18,17 @@ I'm K.Utsunomiya, a front-end web developer.
 ![](https://img.shields.io/badge/CSS-0092bf?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-bf4080?style=flat-square&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
-
-![](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![](https://img.shields.io/badge/Redux%20Toolkit-764abc?style=flat-square&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white)
 
 ![](https://img.shields.io/badge/macOS-f5f5f7?style=flat-square&logo=apple&logoColor=black)
 ![](https://img.shields.io/badge/WebStorm-00cdd7?style=flat-square&logo=webstorm&logoColor=white)
 
-### Secondary
+Secondary
 
 ![](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python&logoColor=306998)
-![](https://img.shields.io/badge/Golang-29beb0?style=flat-square&logo=go&logoColor=white)
-
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=f57c00)
 
