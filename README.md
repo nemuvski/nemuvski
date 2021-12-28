@@ -4,7 +4,7 @@ I'm K.Utsunomiya, a front-end web developer.
 
 My github repo mainly contains the code mentioned in my personal blog and demo applications for self-study.
 
-Blessing of the cat upon your *development journey*.
+Blessing of the cat upon your *coding journey*.
 
 <img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="64" />
 
