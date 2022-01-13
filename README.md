@@ -12,8 +12,6 @@ Blessing of the cat upon your *coding journey*.
 ## My links
 
 - 📖 My Website: https://koredana.info/
-- 🤖 My Service
-  - **Poiyo**: https://poiyo.app/
 - 🦊 GitLab: https://gitlab.com/nemuvski/
 - 🎁 NPM: https://www.npmjs.com/~nemuvski
 
