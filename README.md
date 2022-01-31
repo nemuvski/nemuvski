@@ -8,6 +8,8 @@ Blessing of the cat upon your *coding journey*.
 
 <img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="128" />
 
+<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="128" />
+
 
 ## My links
 
