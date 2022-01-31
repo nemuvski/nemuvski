@@ -44,6 +44,6 @@ Secondary
 
 ## My GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemuvski&show_icons=true&theme=gruvbox&count_private=true&cache_seconds=7200)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemuvski&show_icons=true&theme=gruvbox&count_private=true&hide=contribs&hide_title=true&include_all_commits=true&cache_seconds=7200)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemuvski&theme=gruvbox&langs_count=10&show_icons=true&layout=compact&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemuvski&theme=gruvbox&langs_count=10&hide_title=true&show_icons=true&layout=compact&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
