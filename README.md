@@ -6,9 +6,7 @@ My github repo mainly contains the code mentioned in my personal blog and demo a
 
 Blessing of the cat upon your *coding journey*.
 
-<img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="128" />
-
-<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="128" />
+<img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="189" /><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="128" />
 
 
 ## My links
