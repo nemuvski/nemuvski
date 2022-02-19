@@ -10,7 +10,7 @@ To close, I hope you will be blessed of the cat upon your *coding journey*.
 
 ---
 
-We need da fonk. 🤘
+We got da fonk. 🤘
 
 <img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="230" /><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="156" />
 
