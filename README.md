@@ -4,7 +4,9 @@ I'm K.Utsunomiya, a front-end web developer.
 
 My github repo mainly contains the code mentioned in my personal blog and demo applications for self-study.
 
-Blessing of the cat upon your *coding journey*.
+If you have any questions, feel free to contact me. https://koredana.info/contact
+
+To close, I hope you will be blessed of the cat upon your *coding journey*.
 
 ---
 
