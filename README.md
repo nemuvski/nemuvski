@@ -6,7 +6,7 @@ My github repo mainly contains the code mentioned in my personal blog and demo a
 
 If you have any questions, feel free to contact me. https://koredana.info/contact
 
-To close, I hope you will be blessed of the cat upon your *coding journey*.
+To close, I hope you will be blessed of the cat upon your *coding journey*. 🐈
 
 ---
 
