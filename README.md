@@ -45,7 +45,7 @@ Secondary
 ![](https://img.shields.io/badge/VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-## Playgound
+## Playground
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/nemuvski/nemuvski/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/nemuvski/nemuvski/output/github-snake-dark.svg#gh-dark-mode-only)
