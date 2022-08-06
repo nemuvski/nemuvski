@@ -1,0 +1,19 @@
+name: Generate snake image
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  snk:
+    runs-on: ubuntu-latest
+    name: Generate snake image
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark

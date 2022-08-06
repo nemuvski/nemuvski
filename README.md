@@ -45,6 +45,11 @@ Secondary
 ![](https://img.shields.io/badge/VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
+## Playgound
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <!--
 ## My GitHub stats
 
