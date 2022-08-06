@@ -47,8 +47,8 @@ Secondary
 
 ## Playgound
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/nemuvski/nemuvski/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/nemuvski/nemuvski/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 ## My GitHub stats
