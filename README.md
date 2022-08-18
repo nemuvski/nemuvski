@@ -21,6 +21,11 @@ We got da fonk. 🤘
 - 🦊 GitLab: https://gitlab.com/nemuvski/
 - 🎁 NPM: https://www.npmjs.com/~nemuvski
 
+### Packages
+
+- 🔥 Chaka: https://chakafire.netlify.app/
+- 🍚 @itsumono: https://itsumono.netlify.app/
+
 
 ## My tools
 
