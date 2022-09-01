@@ -6,14 +6,6 @@ My github repo mainly contains the code mentioned in my personal blog and demo a
 
 If you have any questions, feel free to contact me. https://koredana.info/contact
 
-To close, I hope you will be blessed of the cat upon your *coding journey*. 🐈
-
----
-
-We got da fonk. 🤘
-
-<img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="230" /><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="156" />
-
 
 ## My links
 
