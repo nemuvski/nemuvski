@@ -9,14 +9,19 @@ If you have any questions, feel free to contact me. https://koredana.info/contac
 
 ## My links
 
-- 📖 My Website: https://koredana.info/
-- 🦊 GitLab: https://gitlab.com/nemuvski/
-- 🎁 NPM: https://www.npmjs.com/~nemuvski
+- 📖 My Website
+  - https://koredana.info/
+- 🎁 npm
+  - https://www.npmjs.com/~nemuvski
 
 ### Packages
 
-- 🔥 Chaka: https://chakafire.netlify.app/
-- 🍚 @itsumono: https://itsumono.netlify.app/
+- 🔥 Chaka
+  - https://chakafire.netlify.app/
+- 🍚 @itsumono
+  - https://itsumono.netlify.app/
+- 😶 nacss
+  - https://itsumono.netlify.app/
 
 
 ## My tools
