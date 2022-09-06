@@ -21,7 +21,7 @@ If you have any questions, feel free to contact me. https://koredana.info/contac
 - 🍚 @itsumono
   - https://itsumono.netlify.app/
 - 😶 nacss
-  - https://itsumono.netlify.app/
+  - https://nacss.netlify.app/
 
 
 ## My tools
