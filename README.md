@@ -2,10 +2,6 @@
 
 I'm K.Utsunomiya, a front-end web developer.
 
-My github repo mainly contains the code mentioned in my personal blog and demo applications for self-study.
-
-If you have any questions, feel free to contact me. https://koredana.info/contact
-
 
 ## My links
 
