@@ -7,6 +7,7 @@ I'm K.Utsunomiya, a front-end web developer.
 
 - 📖 My Website
   - https://nemuv.ski/
+  - https://becat.nemuv.ski/
   - https://koredana.info/
 - 🎁 npm
   - https://www.npmjs.com/~nemuvski
