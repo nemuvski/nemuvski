@@ -9,8 +9,8 @@ I'm K.Utsunomiya, a front-end web developer.
   - https://nemuv.ski/
   - https://becat.nemuv.ski/
   - https://koredana.info/
-- 🎁 npm
-  - https://www.npmjs.com/~nemuvski
+- 🌏 Service link
+  - https://zenn.dev/nemuvski
 
 ### Packages
 
@@ -20,6 +20,8 @@ I'm K.Utsunomiya, a front-end web developer.
   - https://itsumono.netlify.app/
 - 😶 nacss
   - https://nacss.netlify.app/
+- 🎁 others
+  - https://www.npmjs.com/~nemuvski
 
 
 ## My tools
