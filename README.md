@@ -10,7 +10,8 @@ I'm K.Utsunomiya, a web developer.
   - https://becat.nemuv.ski/
   - https://koredana.info/
 - 🌏 Service link
-  - https://zenn.dev/nemuvski
+  - [Zenn](https://zenn.dev/nemuvski)
+  - [Bluesky](https://bsky.app/profile/nemuv.ski)
 
 ### Packages
 
