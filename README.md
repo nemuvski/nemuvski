@@ -8,7 +8,6 @@ I'm K.Utsunomiya, a web developer.
 - 📖 My Website
   - https://nemuv.ski/
   - https://becat.nemuv.ski/
-  - https://koredana.info/
 
 ### Packages
 
