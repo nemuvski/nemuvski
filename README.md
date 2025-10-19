@@ -11,14 +11,14 @@ I'm K.Utsunomiya, a web developer.
 
 ### Packages
 
-- 🔥 Chaka
-  - https://chakafire.netlify.app/
 - 🍚 @itsumono
   - https://itsumono.netlify.app/
 - 😶 nacss
   - https://nacss.netlify.app/
 - 🎁 others
   - https://www.npmjs.com/~nemuvski
+- 🔥 ~Chaka~ (The documentation site is still up but no longer maintained.)
+  - ~https://chakafire.netlify.app/~
 
 
 ### Playground
