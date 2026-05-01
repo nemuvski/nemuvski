@@ -3,12 +3,6 @@
 I'm K.Utsunomiya, a web developer.
 
 
-## My links
-
-- 📖 My Website
-  - https://nemuv.ski/
-  - https://becat.nemuv.ski/
-
 ### Packages
 
 - 🍚 @itsumono
@@ -17,8 +11,6 @@ I'm K.Utsunomiya, a web developer.
   - https://nacss.netlify.app/
 - 🎁 others
   - https://www.npmjs.com/~nemuvski
-- 🔥 ~Chaka~ (The documentation site is still up but no longer maintained.)
-  - ~https://chakafire.netlify.app/~
 
 
 ### Playground
